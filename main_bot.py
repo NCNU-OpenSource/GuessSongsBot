@@ -441,8 +441,8 @@ playtime = [60,40,30,20,10]
 pt = False # 有沒有公布提示
 
 MessageLoop(bot,handle).run_as_thread()
-game = 5 # 第幾關
-gamenum = 2 # 第幾題
+game = 1 # 第幾關
+gamenum = 0 # 第幾題
 # new_set = 0 # 用來算要不要重新輸入歌曲
 while 1:
     time.sleep(5)
