@@ -15,7 +15,7 @@ from telepot.loop import MessageLoop
 import logging
 # import ftransc.core as ft
 # logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO) 
-bot = telepot.Bot('1050112594:AAHu5aEBiIROVw-nFhK5AlNqyGvHqUFTfp4')
+bot = telepot.Bot('YOUR BOT API TOKEN')
 # 抓歌曲 
 
 def music(search_keyword) :
