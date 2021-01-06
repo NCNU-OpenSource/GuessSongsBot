@@ -41,7 +41,7 @@ pip install python3-urllib
     - 加 @BotFather 為好友
     - `/newbot`為你的機器人取個名字
     - 記住`TOKEN`，然後就可以開始你的 Telegram Bot了
-    ![](https://i.imgur.com/sXXNTTh.jpg =500x600)
+    ![](https://i.imgur.com/sXXNTTh.jpg )
 
 
 
@@ -52,9 +52,9 @@ pip install python3-urllib
 ### 群組玩法
 1. 將 telegram bot 加入群組
 
-![](https://i.imgur.com/uh6nNzX.jpg =400x)
+![](https://i.imgur.com/uh6nNzX.jpg )
 
-![](https://i.imgur.com/2eSRi4d.jpg =400x750)
+![](https://i.imgur.com/2eSRi4d.jpg )
 
 2. 成員選擇`/join`加入遊戲
 3. ==optional== 選擇`/rule`顯示遊戲規則
