@@ -123,6 +123,7 @@ pip install python3-urllib
 - https://blog.sean.taipei/2017/05/telegram-bot
 - https://letswrite.tw/telegram-bot-commands/
 - https://oscarada87.github.io/2019/05/25/%E7%94%A8-Python-%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84-Telegram-Bot/
+- https://github.com/NCNU-OpenSource/MOLi-PA-Bot/blob/master/PABot.py
 
 ## 工作分配
 - 葉衣玲
