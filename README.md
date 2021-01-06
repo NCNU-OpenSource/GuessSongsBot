@@ -78,13 +78,13 @@ pip install python3-urllib
 ### 個人玩法
 1. 加 @Bingtrybot 好友
 2. `/join` 加入遊戲
-3. ==optional== `/rule` 顯示遊戲規則
+3. optional `/rule` 顯示遊戲規則
 4. `/music 歌手` 設定遊戲範圍並開始遊戲
 5. 遊戲共有 5 關，每關 3 題，並依據關卡難度提高得分
 6. 若題目太難無法答對，且回答過至少一次，可使用`/prompt`顯示提示，**但使用提示會降低得分**
 7. 若使用提示後依舊無法答對，可`/pass`此題，並顯示正確答案(答案錯了就算你衰到)
 8. 遊戲結束，列出得分
-- ==optional==
+- optional
     - `/replay` 重播題目
     - `/rank` 列出排名 a.k.a. 查看你的得分
     - `/exit` 離開遊戲
