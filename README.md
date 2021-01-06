@@ -48,7 +48,7 @@ pip install python3-urllib
 ## 遊戲玩法
 ### 遊戲流程
 ![](https://i.imgur.com/GO0LXcU.png)
-<img scr="https://i.imgur.com/GO0LXcU.png" width="375"/>
+
 
 ### 群組玩法
 1. 將 telegram bot 加入群組
@@ -58,14 +58,14 @@ pip install python3-urllib
 ![](https://i.imgur.com/2eSRi4d.jpg )
 
 2. 成員選擇`/join`加入遊戲
-3. ==optional== 選擇`/rule`顯示遊戲規則
+3. optional 選擇`/rule`顯示遊戲規則
 4. 輸入 `/music` + **歌手名** 並開始遊戲
 5. 遊戲共有 5 關，每關 3 題，並依據關卡難度提高得分
 6. 若該題無人回答正確，且所有人都回答過至少一次的情況下，超過半數人選擇`/prompt`，則可使用提示，**但使用提示會降低得分**(請參照下表)
 7. 若使用提示後依舊無法答對，可`/pass`此題，並公布正確答案(答案錯了就是你衰到)
 8. 每關結束，列出得分**前三高**的分數及 telegram ID
 9. 遊戲結束，列出所有人的得分及 telegram ID
-- ==optional==
+- optional
     - `/replay` 重播題目
     - `/rank` 列出前三名
     - `/exit` 離開遊戲
