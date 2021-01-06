@@ -48,6 +48,7 @@ pip install python3-urllib
 ## 遊戲玩法
 ### 遊戲流程
 ![](https://i.imgur.com/GO0LXcU.png)
+<img scr="https://i.imgur.com/GO0LXcU.png" width="375"/>
 
 ### 群組玩法
 1. 將 telegram bot 加入群組
