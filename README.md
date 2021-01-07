@@ -35,6 +35,8 @@ pip install python3-urllib
 # 窗戶作業系統需要另外在網路上搜尋 vlc 下載
 # 若電腦內同時有 python2 及 python3
 # 上述所有 pip 都要改成 pip3
+# Linux OR MacOS
+sudo apt-get install python3-vlc
 ```
 
 4. 安裝 Telegram Bot
@@ -42,10 +44,13 @@ pip install python3-urllib
     - `/newbot`為你的機器人取個名字
     - 記住`TOKEN`，然後就可以開始你的 Telegram Bot了
     ![](https://i.imgur.com/sXXNTTh.jpg )
+    
+5. 你就可以快樂地 `git clone` 這個 repo 了
 
 
 
 ## 遊戲玩法
+**一次只能一組人玩遊戲**
 ### 遊戲流程
 ![](https://i.imgur.com/GO0LXcU.png)
 
@@ -111,6 +116,7 @@ pip install python3-urllib
 - VLC 安裝
     - 除了 `pip install vlc` 之外，還要`pip install python-vlc`
     - 窗戶還要下載 VLC 才可以正常執行
+    - Linux 或 MacOS 要 `sudo apt-get install python3-vlc`
 
 
 ## 未來展望
